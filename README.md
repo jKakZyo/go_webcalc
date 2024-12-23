@@ -13,7 +13,7 @@
 Склонируйте репозиторий командой:
 ```bash
 
-git clone https://github.com/jKakZyo/go_webcalc.git
+git clone https://github.com/ваше_имя_пользователя/go_webcalc.git
 
 cd go_webcalc
 
