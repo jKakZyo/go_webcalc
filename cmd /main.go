@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"github.com/jKakZyo/go_webcalc/internal/calculator"
+	"github.com/jKakZyo/go_webcalc/calculator"
 )
 
 type Request struct {
